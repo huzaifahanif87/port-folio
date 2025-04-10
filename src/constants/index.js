@@ -63,20 +63,20 @@ export const navLinks = [
       subdesc:
         'It connected to a responsive, user-centric frontend. Users can search for documents, retrieve relevant results, and update backend data, including lexicons, indices, and document metadata, all via an intuitive user interface (UI).',
       href: '/',
-      texture: '/textures/project/project1.mp4',
-      logo: '/assets/project-logo1.png',
+      texture: 'textures/project/project1.mp4',
+      logo: 'assets/project-logo1.png',
       logoStyle: {
         backgroundColor: '#1C1A43',
         width: '70px',
         border: '0.2px solid #252262',
         boxShadow: '0px 0px 60px 0px #635BFF4D',
       },
-      spotlight: '/assets/spotlight5.png',
+      spotlight: 'assets/spotlight5.png',
       tags: [
         {
           id: 1,
           name: 'Python',
-          path: '/assets/python.png',
+          path: 'assets/python.png',
         },
         {
           id: 2,
@@ -86,12 +86,12 @@ export const navLinks = [
         {
           id: 3,
           name: 'CSS',
-          path: '/assets/css.png',
+          path: 'assets/css.png',
         },
         {
           id: 4,
           name: 'Java script',
-          path: '/assets/js.png',
+          path: 'assets/js.png',
         },
       ],
     },
@@ -108,12 +108,12 @@ export const navLinks = [
         border: '0.2px solid #17293E',
         boxShadow: '0px 0px 60px 0px #2F6DB54D',
       },
-      spotlight: '/assets/spotlight2.png',
+      spotlight: 'assets/spotlight2.png',
       tags: [
         {
           id: 1,
           name: 'React.js',
-          path: '/assets/react.svg',
+          path: 'assets/react.svg',
         },
         {
           id: 2,
@@ -123,12 +123,12 @@ export const navLinks = [
         {
           id: 3,
           name: 'JavaScript',
-          path: '/assets/js.png',
+          path: 'assets/js.png',
         },
         {
           id: 4,
           name: 'Tableau',
-          path: '/assets/tableau.png',
+          path: 'assets/tableau.png',
         },
       ],
     },
@@ -138,8 +138,8 @@ export const navLinks = [
       subdesc:
         'With a focus on Object oriented Programming and using legacy frame work like spring boot, it was designed to be user friendly and super efficient.',
       href: '/',
-      texture: '/textures/project/project3.mp4',
-      logo: '/assets/project-logo3.png',
+      texture: 'textures/project/project3.mp4',
+      logo: 'assets/project-logo3.png',
       logoStyle: {
         backgroundColor: 'black',
         background:
@@ -147,12 +147,12 @@ export const navLinks = [
         border: '0.2px solid rgb(46, 25, 25)',
         boxShadow: '0px 0px 60px 0px rgba(78, 14, 14, 0.3)',
       },
-      spotlight: '/assets/spotlight1.png',
+      spotlight: 'assets/spotlight1.png',
       tags: [
         {
           id: 1,
           name: 'JAVA',
-          path: '/assets/java.png',
+          path: 'assets/java.png',
         },
         {
           id: 2,
@@ -162,12 +162,12 @@ export const navLinks = [
         {
           id: 3,
           name: 'Bootstrap',
-          path: '/assets/bs.png',
+          path: 'assets/bs.png',
         },
         {
           id: 4,
           name: 'HTML',
-          path: '/assets/html.png',
+          path: 'assets/html.png',
         },
       ],
     },
@@ -177,19 +177,19 @@ export const navLinks = [
       subdesc:
         'Built with Python, it uses tkinter for dynamic ui and a mysql database to store and fetch data from.',
       href: '/',
-      texture: '/textures/project/project4.mp4',
-      logo: '/assets/project-logo4.png',
+      texture: 'textures/project/project4.mp4',
+      logo: 'assets/project-logo4.png',
       logoStyle: {
         backgroundColor: '#0E1F38',
         border: '0.2px solid #0E2D58',
         boxShadow: '0px 0px 60px 0px #2F67B64D',
       },
-      spotlight: '/assets/spotlight4.png',
+      spotlight: 'assets/spotlight4.png',
       tags: [
         {
           id: 1,
           name: 'Python',
-          path: '/assets/python.png',
+          path: 'assets/python.png',
         },
         {
           id: 2,
@@ -204,19 +204,19 @@ export const navLinks = [
       subdesc:
         'It was built using spring boot and connected to mysql database. It offers a very modern and userfreindly interface making it super easy to use.',
       href: '/',
-      texture: '/textures/project/project5.mp4',
-      logo: '/assets/project-logo5.png',
+      texture: 'textures/project/project5.mp4',
+      logo: 'assets/project-logo5.png',
       logoStyle: {
         backgroundColor: '#1C1A43',
         border: '0.2px solid #252262',
         boxShadow: '0px 0px 60px 0px #635BFF4D',
       },
-      spotlight: '/assets/spotlight5.png',
+      spotlight: 'assets/spotlight5.png',
       tags: [
         {
           id: 1,
           name: 'JAVA',
-          path: '/assets/java.png',
+          path: 'assets/java.png',
         },
         {
           id: 2,
@@ -226,12 +226,12 @@ export const navLinks = [
         {
           id: 3,
           name: 'Springboot',
-          path: '/assets/spring.png',
+          path: 'assets/spring.png',
         },
         {
           id: 4,
           name: 'HTML',
-          path: '/assets/html.png',
+          path: 'assets/html.png',
         },
       ],
     },
@@ -255,7 +255,7 @@ export const navLinks = [
       pos: 'Excellent',
       duration: 'since 2024',
       title: "React , Javascript , HTML ,CSS",
-      icon: '/assets/front.png',
+      icon: 'assets/front.png',
       animation: 'salute',
     },
     {
@@ -264,7 +264,7 @@ export const navLinks = [
       pos: 'Excellent',
       duration: 'since 2023',
       title: "Python, Node, Java",
-      icon: '/assets/back.png',
+      icon: 'assets/back.png',
       animation: 'clapping',
     },
     {
@@ -273,7 +273,7 @@ export const navLinks = [
       pos: 'Good',
       duration: 'Since 2024',
       title: "Mysql, MongoDB",
-      icon: '/assets/mysql.png',
+      icon: 'assets/mysql.png',
       animation: 'victory',
     },
     {
@@ -282,7 +282,7 @@ export const navLinks = [
       pos: 'Good',
       duration: 'Since 2024',
       title: "UML, plantUML, Visual Paradigm ",
-      icon: '/assets/uml.png',
+      icon: 'assets/uml.png',
       animation: 'idle',
     },
   ];
